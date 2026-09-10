@@ -1,0 +1,9 @@
+﻿*.o
+server
+client
+*.out
+.vagrant/
+ubuntu_netproj.box
+vagrant_2.4.9_windows_i686.msi
+tju_tcp/test/test
+tju_tcp/test/
