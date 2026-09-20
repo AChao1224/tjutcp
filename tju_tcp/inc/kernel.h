@@ -15,7 +15,6 @@ tju_tcp_t* established_socks[MAX_SOCK];
 */
 void onTCPPocket(char* pkt);
 
-
 /*
 以用户填写的TCP报文为参数
 根据用户填写的TCP的目的IP和目的端口,向该地址发送数据报
